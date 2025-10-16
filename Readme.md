@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< 
 Enrique Moscoso de la Haza. En este proyecto el objetivo es aprender sobre los comandos basicos de gitbash.
 =======
 Enrique Moscoso de la Haza. En este proyecto, el objetivo principal es aprender los comandos básicos de gitbash
